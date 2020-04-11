@@ -1,0 +1,11 @@
+#to print the multiples of 3 between 1 to 20.
+START
+INITIALIZE A
+
+DISPLAY "THE MULTIPLES OF 3 BETWEEN 1 TO 20 ARE::"
+
+FOR in 1 to 20
+ IF A%3 EQUALS 0
+  PRINT A 
+ END IF
+END FOR
